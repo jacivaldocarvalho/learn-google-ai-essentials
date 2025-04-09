@@ -1,5 +1,4 @@
 # Modelos de IA e o Processo de Treinamento
-
 Você já explorou como as ferramentas de IA são alimentadas por modelos de IA. Nesta leitura, você obterá uma compreensão mais profunda de como os modelos de IA são desenvolvidos. Você descobrirá o processo iterativo que os designers e engenheiros de IA usam para treinar modelos de IA a partir de dados, garantindo que as ferramentas de IA funcionem de forma confiável. Aprender mais sobre o funcionamento interno das ferramentas de IA o ajudará a discuti-las com mais precisão e confiança.
 
 ## Ferramentas de IA e Modelos de IA

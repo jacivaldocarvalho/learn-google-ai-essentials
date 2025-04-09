@@ -1,5 +1,4 @@
 # Viés, Desvio e Corte de Conhecimento
-
 Uma compreensão completa dos conceitos de IA responsável — como viés, desvio e corte de conhecimento — pode ajudá-lo a usar a IA de forma mais ética e com maior responsabilidade. Nesta leitura, você aprenderá a usar as ferramentas de IA de forma responsável e a entender as implicações de resultados injustos ou imprecisos.
 
 ## Danos e Vieses

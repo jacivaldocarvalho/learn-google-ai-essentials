@@ -1,5 +1,4 @@
 # Prompts para Diferentes Finalidades
-
 Lembre-se de que um Modelo de Linguagem Grande (LLM) é um modelo de IA treinado em grandes quantidades de texto para identificar padrões entre palavras, conceitos e frases, de modo que possa gerar respostas a prompts. Como você tem aprendido, uma boa solicitação pode ajudar a orientar um LLM a gerar resultados úteis para tarefas no local de trabalho. Nesta leitura, você explorará melhor como escrever prompts claros e específicos para uma variedade de casos de uso no local de trabalho.
 
 ## Casos de Uso

@@ -1,5 +1,4 @@
 # Explore o chain-of-thought prompting
-
 Dividir tarefas complexas em etapas gerenciáveis pode ser um desafio, especialmente se você estiver enfrentando uma tarefa difícil pela primeira vez. Felizmente, há uma técnica especializada de prompting que você pode usar para ajudar: o **Prompting com cadeia de pensamento**. Com a ajuda dessa técnica avançada de estímulo, você pode aproveitar os recursos de solução de problemas da IA para lidar com trabalhos complicados, um passo de cada vez.
 
 ## Aproveitamento da IA para tarefas complexas

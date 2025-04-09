@@ -1,5 +1,4 @@
 # Lista de Verificação para Usar a IA com Responsabilidade
-
 Antes de usar a IA, é fundamental que você pense cuidadosamente sobre como fazê-lo de forma responsável. Isso garante que você a esteja usando de forma ética, minimizando os riscos e obtendo os melhores resultados. O uso responsável da IA envolve a transparência sobre seu uso, a avaliação cuidadosa de seus resultados e a consideração do potencial de viés ou erros. Você pode fazer o download de uma cópia [desta lista de verificação para usar a IA de forma responsável](https://docs.google.com/document/d/1_gZlh2oONOd1116f0EmYXHaVwxzcVbw8SZRm4y2aIF8/template/preview) para ajudá-lo a navegar por essas considerações em seu trabalho.
 
 ## Analise os Resultados da IA

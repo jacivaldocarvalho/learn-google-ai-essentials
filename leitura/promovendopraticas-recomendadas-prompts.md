@@ -1,5 +1,4 @@
 # Promovendo Práticas Recomendadas
-
 O prompt é uma habilidade essencial para tirar o máximo proveito da IA generativa. Para obter os melhores resultados de uma ferramenta de IA, é necessário criar um bom prompt. Um bom prompt segue uma estrutura simples: **Tarefa**, **Contexto**, **Referências**, **Avaliar** e **Iterar**. Explore como você pode usar essa estrutura para elevar seu prompt e liberar mais benefícios da IA.
 
 ### Especifique a Tarefa

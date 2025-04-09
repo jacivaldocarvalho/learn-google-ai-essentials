@@ -1,5 +1,4 @@
 # Mantenha-se em Dia com a IA
-
 O cenário da IA está em constante evolução, apresentando desafios e oportunidades para profissionais de todos os setores. Manter-se informado sobre os últimos avanços em IA pode equipá-lo para aproveitar os recursos de IA, aprimorar seu trabalho e otimizar seu conjunto de habilidades. Nesta leitura, você aprenderá a manter seu conhecimento de IA atualizado, pois a lista de ferramentas de IA generativa continua a se expandir com o tempo.
 
 ## Pesquise Recursos On-line

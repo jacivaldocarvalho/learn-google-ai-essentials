@@ -1,5 +1,4 @@
 # Um guia para IA e ML
-
 A **Inteligência Artificial (IA)** e o **Aprendizado de Máquina (AM)** estão mudando o futuro do trabalho. Embora os dois termos pareçam semelhantes, o aprendizado de máquina é, na verdade, uma técnica específica usada pelos projetistas de IA para obter programas de computador com inteligência artificial. Conhecer os conceitos básicos de como a IA e o ML se relacionam pode ajudá-lo a navegar por essas tecnologias à medida que elas transformam o cenário de trabalho, permitindo que você contribua efetivamente para projetos orientados por IA ou lidere suas próprias iniciativas de IA.
 
 Nesta leitura, você explorará algumas das técnicas de AM que os designers de IA usam para criar programas de IA, aprofundando sua compreensão de como o AM aproveita os dados para tomar decisões e executar tarefas. Você também explorará como as técnicas de AM prepararam o caminho para a IA generativa.

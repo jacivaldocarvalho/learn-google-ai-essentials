@@ -1,7 +1,5 @@
 
 # Ferramentas de IA Generativa para Tarefas no Local de Trabalho
-
-
 Você já aprendeu que há diferentes maneiras de usar a IA generativa para tornar as tarefas no local de trabalho mais eficientes. A IA generativa pode ser uma ferramenta autônoma ou você pode usar um software com recursos de IA integrados. Nesta leitura, você saberá mais sobre as diferentes maneiras de usar a IA generativa no local de trabalho e sobre algumas das principais ferramentas de IA generativa disponíveis.
 
 ## Usos da IA Generativa no Local de Trabalho
